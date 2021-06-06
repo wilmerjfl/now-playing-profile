@@ -14,7 +14,8 @@ export interface Props {
 export const Player: React.FC<Props> = ({
   cover,
   track,
-  artist,00B7FCprogress,
+  artist,
+  progress,
   duration,
   isPlaying,
 }) => {
